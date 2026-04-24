@@ -1,39 +1,34 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Anthony+Johnson+II;Founder+%40+EthereaLogic.ai;AI+Engineer+%7C+Systems+Thinker;Is+your+AI+thinking+clearly%3F" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Anthony+Johnson+II;Enterprise+AI+Solutions+Architect;AI+Engineer+%7C+Systems+Thinker;Is+your+AI+thinking+clearly%3F)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/etherealogic/etherealogic/main/assets/etherealogic_banner_resized.png" alt="EthereaLogic GitHub Banner" />
-</p>
+![EthereaLogic GitHub Banner](https://raw.githubusercontent.com/etherealogic/etherealogic/main/assets/etherealogic_banner_resized.png)
 
-<p align="center">
-  <a href="https://etherealogic.ai"><img src="https://img.shields.io/badge/Website-etherealogic.ai-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:Anthony.johnsonii@etherealogic.ai"><img src="https://img.shields.io/badge/Email-Anthony.johnsonii%40etherealogic.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AJ-EthereaLogic-ai"><img src="https://img.shields.io/badge/GitHub-AJ--EthereaLogic--ai-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00C853?style=for-the-badge" />
-</p>
+[![Website](https://img.shields.io/badge/Website-etherealogic.ai-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://etherealogic.ai)
+[![Email](https://img.shields.io/badge/Email-Anthony.johnsonii%40etherealogic.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anthony.johnsonii@etherealogic.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-AJ--EthereaLogic--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJ-EthereaLogic-ai)
+[![Status](https://img.shields.io/badge/Status-Shipping%20in%20Public-00C853?style=for-the-badge)](#)
 
 ---
 
 ### 🧠 About Me
 
-I'm **Anthony Johnson II** — a systems thinker, AI engineer, and freelance theoretical physicist. I founded [EthereaLogic.ai](https://etherealogic.ai) to build **practical, clarity-first AI tools and frameworks** that cut through the noise of the modern AI landscape.
+I'm **Anthony Johnson II** — a systems thinker and AI engineer working out of the Pacific Northwest. I run [EthereaLogic.ai](https://etherealogic.ai), where I deliver Databricks-native data reliability architecture for enterprise clients and publish tooling under the [Org-EthereaLogic](https://github.com/Org-EthereaLogic) umbrella.
 
-I'm drawn to the underexplored, high-leverage corners of AI — the problems that aren't flashy, but make everything else work better. My work sits at the intersection of **rigorous systems design**, **LLM orchestration**, and **open-source infrastructure**.
+I'm drawn to the underexplored, high-leverage corners of AI — the problems that aren't flashy, but make everything else work better. My work sits at the intersection of **rigorous systems design**, **LLM orchestration**, and **measurable data reliability** — pipelines that tell you *why* they failed, not just *that* they did.
 
 > *"Is your AI thinking clearly — or just guessing better…?"*
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I'm Shipping
 
 | Project | Description | Status |
-|---|---|---|
-| 🤖 **Agentic Orchestration Toolkit** | Multi-agent pipelines with LangGraph + CrewAI for structured reasoning workflows | 🔨 In Development |
-| 🧩 **MCP Adapter Layer** | Model Context Protocol integrations for safe, auditable LLM tool use | 🔨 In Development |
-| 📡 **RAG Infrastructure Kit** | Modular Retrieval-Augmented Generation with pluggable vector stores | 🔨 In Development |
-| 🔍 **LLM Observability Stack** | Lightweight tracing, evaluation, and prompt versioning for production agents | 🔬 Research Phase |
-| 📦 **Open-Source AI Utilities** | 3–5 focused tools targeting common friction points in LLM pipelines | 🔜 Coming 2026 |
+| --- | --- | --- |
+| 🛰 **[DriftSentinel](https://github.com/Org-EthereaLogic/DriftSentinel)** | Unified Databricks data-reliability platform — intake certification, drift gating, and control benchmarking in a single governed pipeline. Operator dashboard included. **397 passing tests.** | ✅ **Live on PyPI** |
+| 🔨 **[AetheriaForge](https://github.com/Org-EthereaLogic/AetheriaForge)** | Coherence-scored transformation engine — entity resolution, temporal reconciliation, and schema enforcement with append-only evidence. Layer-aware thresholds (Bronze ≥ 0.5, Silver ≥ 0.75, Gold ≥ 0.95). **304 passing tests.** | ✅ **Live on PyPI** |
+| 📊 **[Enterprise Data Trust Methodology](https://github.com/Org-EthereaLogic)** | Three-chapter data trust foundation — [Trusted Source Intake](https://github.com/Org-EthereaLogic/trusted-source-intake) (56 tests), [Silent Failure Prevention](https://github.com/Org-EthereaLogic/silent-failure-prevention) (50 tests), [Measurable Control Effectiveness](https://github.com/Org-EthereaLogic/measurable-control-effectiveness) (37 tests). **Perfect challenger recall (1.00 vs 0.8767 industry baseline) across 6.6M rows — 100% detection of silent data corruption before it reaches executive dashboards.** | ✅ **Shipped** |
+| ✍️ **[Distributional Validation Series](https://etherealogic.ai/from-theory-to-evidence-validating-shannon-entropy-for-data-quality-at-scale/)** | Three-part April 2026 technical series documenting preregistered experiments (E61/E62/E63) and 6.6M-row empirical validation of entropy-based data quality. | ✅ **Published Apr 2026** |
+
+**Total:** 844+ passing tests across the full five-chapter portfolio. Every claim backed by reproducible evidence on Databricks Free Edition.
 
 ---
 
@@ -43,13 +38,21 @@ I'm drawn to the underexplored, high-leverage corners of AI — the problems tha
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Data Platforms & Lakehouse**
+
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-00ADD8?style=flat-square&logo=delta&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/-Unity%20Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **AI / LLM Orchestration**
 
 ![LangChain](https://img.shields.io/badge/-LangChain-FF9900?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-FF6F00?style=flat-square&logo=graphql&logoColor=white)
-![CrewAI](https://img.shields.io/badge/-CrewAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Anthropic-1A1A1A?style=flat-square&logo=anthropic&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -67,52 +70,37 @@ I'm drawn to the underexplored, high-leverage corners of AI — the problems tha
 ![Qdrant](https://img.shields.io/badge/-Qdrant-FF4081?style=flat-square&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF7043?style=flat-square&logo=databricks&logoColor=white)
 
-**Protocols & Standards**
+**Protocols & Patterns**
 
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG%20Pipelines-6A0DAD?style=flat-square&logo=semantic-web&logoColor=white)
+![Medallion](https://img.shields.io/badge/-Medallion%20Architecture-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
 ### 🏆 GitHub Achievements
 
 | 🦈 Pull Shark | 🪩 YOLO | 🟢 Pair Extraordinaire | 🎯 Quickdraw |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Merged like a boss | First to dive in | Collaborative commits | Rapid precision commits |
 
 ---
 
-<p align="center">
-  <a href="https://github.com/AJ-EthereaLogic-ai">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=AJ-EthereaLogic-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      alt="Anthony's GitHub Stats" />
-  </a>
-</p>
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ-EthereaLogic-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AJ-EthereaLogic-ai&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=AJ-EthereaLogic-ai&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AJ-EthereaLogic-ai&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJ-EthereaLogic-ai&theme=tokyo-night&hide_border=true)
 
 ---
 
 ### 📬 Contact
 
-- 🌐 [etherealogic.ai](https://etherealogic.ai)
-- ✉️ Anthony.johnsonii@etherealogic.ai
-- 🏢 [EthereaLogic on GitHub](https://github.com/AJ-EthereaLogic-ai/Etherealogic)
+* 🌐 [etherealogic.ai](https://etherealogic.ai)
+* ✉️ [Anthony.johnsonii@etherealogic.ai](mailto:Anthony.johnsonii@etherealogic.ai)
+* 🏢 [Org-EthereaLogic on GitHub](https://github.com/Org-EthereaLogic) — published portfolio
+* 💼 [linkedin.com/in/anthonyjohnsonii](https://www.linkedin.com/in/anthonyjohnsonii/)
 
 ---
 
-<p align="center">
-  <i>Building AI that actually thinks — one clear system at a time.</i>
-</p>
+*Building AI that actually thinks — one clear system at a time.*
