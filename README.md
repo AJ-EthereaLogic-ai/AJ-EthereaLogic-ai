@@ -21,13 +21,30 @@
    7. Contact footer: "EthereaLogic on GitHub" link now points to Org-EthereaLogic
    8. Everything else (banner, badges, tech stack, stats, achievements) untouched
 
- Cross-check (April 23, 2026):
+ April 25, 2026 changes (this revision):
+   9.  Added "For Hiring Managers" recruiter-readable proof block above
+       Tech Stack per GPT-5.5 review — surfaces target roles, recent shipped
+       proof, enterprise background, and technical focus in one scan.
+   10. Tightened "What I'm Shipping" lead so DriftSentinel/AetheriaForge PyPI
+       proof reads first and the GitHub Achievements + decorative Anthropic
+       fact-check moved below the hiring-manager block per Gemini 3.1 Pro.
+   11. "Open-source" framing strengthened from "published tooling" now that
+       Path A (April 24, 2026) put MIT LICENSE on all five chapter repos.
+
+ Cross-check (April 25, 2026):
    - Live org has 5 chapters: trusted-source-intake (56), silent-failure-prevention
      (50), measurable-control-effectiveness (37), DriftSentinel (397),
-     AetheriaForge (304) — 844 total tests
+     AetheriaForge (304) — 844 total tests, all MIT-licensed.
    - The resume refers to the "three-chapter methodology" (Ch 1–3, 143 tests)
      and names DriftSentinel + AetheriaForge as the two PyPI packages. The
      framing below is compatible with both.
+
+ Operator note (related to this README, but not part of it):
+   GPT-5.5 flagged that the live GitHub.com bio field at github.com/AJ-EthereaLogic-ai
+   appears truncated at "Now," in the public profile preview / Open Graph
+   metadata. That field is edited at github.com/settings/profile (Bio: 160-char
+   limit) — NOT in this README file. See docs/ACTION_PLAN.md Step 10 for the
+   paste-ready replacement bio text.
 ========================================================================
 -->
 
@@ -44,7 +61,7 @@
 
 ### 🧠 About Me
 
-I'm **Anthony Johnson II** — a systems thinker and AI engineer working out of the Pacific Northwest. I run [EthereaLogic.ai](https://etherealogic.ai), where I deliver Databricks-native data reliability architecture for enterprise clients and publish tooling under the [Org-EthereaLogic](https://github.com/Org-EthereaLogic) umbrella.
+I'm **Anthony Johnson II** — an Enterprise AI Solutions Architect working out of the Pacific Northwest. I run [EthereaLogic.ai](https://etherealogic.ai), where I deliver Databricks-native data reliability architecture for enterprise clients and publish open-source tooling under the [Org-EthereaLogic](https://github.com/Org-EthereaLogic) umbrella (MIT-licensed across the full five-chapter Enterprise Data Trust portfolio). I also consult through Analytics AIML — a US-based AI and analytics firm — on enterprise client engagements across AI implementation, analytics modernization, and SDLC-aligned delivery.
 
 I'm drawn to the underexplored, high-leverage corners of AI — the problems that aren't flashy, but make everything else work better. My work sits at the intersection of **rigorous systems design**, **LLM orchestration**, and **measurable data reliability** — pipelines that tell you *why* they failed, not just *that* they did.
 
@@ -61,7 +78,24 @@ I'm drawn to the underexplored, high-leverage corners of AI — the problems tha
 | 📊 **[Enterprise Data Trust Methodology](https://github.com/Org-EthereaLogic)** | Three-chapter data trust foundation — [Trusted Source Intake](https://github.com/Org-EthereaLogic/trusted-source-intake) (56 tests), [Silent Failure Prevention](https://github.com/Org-EthereaLogic/silent-failure-prevention) (50 tests), [Measurable Control Effectiveness](https://github.com/Org-EthereaLogic/measurable-control-effectiveness) (37 tests). **Perfect challenger recall (1.00 vs 0.8767 industry baseline) across 6.6M rows — 100% detection of silent data corruption before it reaches executive dashboards.** | ✅ **Shipped** |
 | ✍️ **[Distributional Validation Series](https://etherealogic.ai/from-theory-to-evidence-validating-shannon-entropy-for-data-quality-at-scale/)** | Three-part April 2026 technical series documenting preregistered experiments (E61/E62/E63) and 6.6M-row empirical validation of entropy-based data quality. | ✅ **Published Apr 2026** |
 
-**Total:** 844+ passing tests across the full five-chapter portfolio. Every claim backed by reproducible evidence on Databricks Free Edition.
+**Total:** 844+ passing tests across the full five-chapter portfolio. Every claim backed by reproducible evidence on Databricks Free Edition. All five Data Trust chapter repos are MIT-licensed.
+
+---
+
+### 🎯 For Hiring Managers
+
+A one-screen summary if you landed here from LinkedIn, the resume, or a recruiter search:
+
+| | |
+| --- | --- |
+| **Target roles** | Principal / Staff Solutions Architect · Enterprise AI Architect · AI Platform / Data Reliability Lead · AI Engineering Lead |
+| **Availability** | Full-time W2 preferred; contract considered. Remote-first; Pacific Northwest based. |
+| **Recent shipped proof** | [DriftSentinel](https://github.com/Org-EthereaLogic/DriftSentinel) and [AetheriaForge](https://github.com/Org-EthereaLogic/AetheriaForge) on PyPI. Reproducible benchmarks across 6.6M rows. Perfect challenger recall (1.00 vs 0.8767 industry baseline). |
+| **Enterprise background** | 11+ years bridging GTM strategy and technical execution. 20+ Fortune 500 integrations representing $10M+ in combined ACV at DiscoverOrg / ZoomInfo Technologies (NASDAQ: GTM, formerly ZI), through the September 2019 rebrand and 2020 NASDAQ IPO. Currently consulting through Analytics AIML on enterprise AI and analytics client engagements alongside a team of ex-IBM and Big 4 advisory professionals. |
+| **Technical focus** | Databricks · Medallion Architecture (Bronze/Silver/Gold) · Unity Catalog · LLM pipelines (LangChain, OpenAI, Anthropic Claude) · Data quality gates · Shannon entropy validation · Retrieval-Augmented Generation (RAG) · Databricks Asset Bundles |
+| **Resume** | DOCX and PDF versions available on request via [Anthony.johnsonii@etherealogic.ai](mailto:Anthony.johnsonii@etherealogic.ai). |
+
+> **The differentiator.** Most engineers see only the code. I spent the formative years of my career in the GTM engine of a hypergrowth SaaS company, watching where data and integration gaps cost real revenue. I build AI pipelines and data architectures that move business metrics, not just notebook demos.
 
 ---
 
@@ -111,19 +145,15 @@ I'm drawn to the underexplored, high-leverage corners of AI — the problems tha
 
 ---
 
-### 🏆 GitHub Achievements
-
-| 🦈 Pull Shark | 🪩 YOLO | 🟢 Pair Extraordinaire | 🎯 Quickdraw |
-| --- | --- | --- | --- |
-| Merged like a boss | First to dive in | Collaborative commits | Rapid precision commits |
-
----
+### 📈 Activity at a Glance
 
 ![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ-EthereaLogic-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AJ-EthereaLogic-ai&theme=tokyonight&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJ-EthereaLogic-ai&theme=tokyo-night&hide_border=true)
+
+> **Pinned repositories above** surface the full five-chapter Enterprise Data Trust portfolio: `DriftSentinel`, `AetheriaForge`, `measurable-control-effectiveness`, `silent-failure-prevention`, `trusted-source-intake`. All MIT-licensed, all on PyPI or in the published methodology suite. Org membership is public, so the resume's `github.com/Org-EthereaLogic` link resolves to a verifiable principal.
 
 ---
 
