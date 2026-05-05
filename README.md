@@ -53,7 +53,7 @@
 [![Website](https://img.shields.io/badge/Website-etherealogic.ai-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://etherealogic.ai)
 [![Email](https://img.shields.io/badge/Email-Anthony.johnsonii%40etherealogic.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anthony.johnsonii@etherealogic.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-AJ--EthereaLogic--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJ-EthereaLogic-ai)
-[![Status](https://img.shields.io/badge/Status-Shipping%20in%20Public-00C853?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Shipping%20in%20Public-00C853?style=for-the-badge)](#-what-im-shipping)
 
 ---
 
